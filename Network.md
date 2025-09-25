@@ -28,5 +28,7 @@ Unlike TCP, UDP mostly don't respond with any data to a regular empty UDP probe 
 nmap -sU -T4 --top-ports 50 --version-intensity 9 -v <target>
 ```
 
+## 🔍 2. Scanning Hosts
+
 
 
